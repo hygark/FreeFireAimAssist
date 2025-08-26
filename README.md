@@ -1,7 +1,5 @@
 # FreeFireAimAssist
-## Descrição:
-FreeFireAimAssist.lua é um script Lua projetado para automatizar assistência de mira em jogos como Free Fire. Ele simula mira automática (aimbot), movimento rápido (speed boost), evita obstáculos (noclip simulado) e realiza pulos elevados (fly). Inclui uma GUI com Rayfield para configuração. O script é voltado para testes em emuladores com executores Lua.
-Aviso Importante: Este script é para uso educacional e em ambientes privados. Automação em jogos pode violar os Termos de Serviço do Free Fire e resultar em banimentos. Use com responsabilidade e apenas em emuladores ou testes de desenvolvimento.
+
 
 ## Funcionalidades:
 Aimbot: Simula mira automática detectando alvos em um campo de visão (FOV) configurável, com delay ajustável.
